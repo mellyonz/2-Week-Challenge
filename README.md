@@ -14,3 +14,7 @@ PHP Employee Search
 Docker was never used since i ran out of time to implement it.
 
 I spent about 16 hours on this and only completed the source code
+
+
+Installation
+https://www.apachefriends.org/index.html
