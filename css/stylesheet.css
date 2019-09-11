@@ -33,6 +33,7 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, f
   display: flex;
   width: 100%;
   justify-content: center;
+  background-image: linear-gradient( var(--light-green), var(--dark-green) );
 }
 #login{
   margin: 1em auto;
@@ -68,10 +69,8 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, f
 
 
 /* TABLE */
-#search {
-  display: flex;
-  flex-direction: row;
-}
+
+
 #srchbtn {
   margin: .5em auto;
 }
@@ -85,6 +84,7 @@ table, th, td {
 table th {
   font-size: 1.25em;
 }
+
 
 /* FOOTER */
 footer {
