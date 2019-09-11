@@ -8,3 +8,5 @@
         "phpunit/phpunit": "^8"
     }
 }
+
+C:/xampp/phpMyAdmin/vendor/bin/ --bootstrap vendor/autoload.php tests/EmailTest
